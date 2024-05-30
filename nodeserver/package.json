@@ -1,0 +1,17 @@
+{
+  "name": "diks",
+  "version": "1.0.0",
+  "description": "Chatapp",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "diks",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "nodemon": "^3.0.2",
+    "socket.io": "^4.7.2"
+  }
+}
